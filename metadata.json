@@ -1,0 +1,9 @@
+{
+  "name": "Elevate OS",
+  "description": "A unified All-in-One Social Media Command Center consolidating content creation, scheduling, engagement, and analytics into a single intelligent operating system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
